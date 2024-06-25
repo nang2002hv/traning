@@ -3,4 +3,5 @@ public class TestTraingGit {
   private String sinhvien;
   private long tongtien;
   private double gpa;
+    private long time;
 }
