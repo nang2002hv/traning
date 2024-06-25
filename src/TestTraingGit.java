@@ -3,4 +3,6 @@ public class TestTraingGit {
   private String sinhvien;
   private long tongtien;
   private double gpa;
+  public int getId(){
+    return this.id;
 }
