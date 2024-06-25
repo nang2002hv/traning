@@ -27,7 +27,7 @@ public class main{
                     System.out.println("toi la giaovien");
                 }
         };
-        nguoi.toiLa();git 
+        nguoi.toiLa();
 
         String [] ds = {"Tung", "Huy", "Hieu"};
         System.out.println(ds[0]);
